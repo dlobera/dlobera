@@ -3,7 +3,7 @@
 ## About Me:
 ### Im a web developer based in Austin, Texas. I love to create things, and see my visions come to life!! 
 
-[![Dahlia's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlobera)](https://github.com/dlobera/github-readme-stats)
+[![Dahlia's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlobera&theme=rose_pine)](https://github.com/dlobera/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlobera&layout=compact&theme=rose_pine)](https://github.com/dlobera/github-readme-stats)
 
 ## Skills
