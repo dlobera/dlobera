@@ -3,6 +3,8 @@
 ## About Me:
 ### Im a web developer based in Austin, Texas. I love to create things, and see my visions come to life!! 
 
+[![Dahlia's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlobera)](https://github.com/dlobera/github-readme-stats)
+
 ## Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
